@@ -6,4 +6,6 @@ These soccer fans visit online statistics trackers where they can freely browse 
 On the backend, each of these data entities have unique_ids that are randomly generated or formed as a concatenation of other attributes. The relationships between them act so that the data is easily sorted and filtered as a user would desire, for instance if they wanted to find all the matches or all the players who played in a specific season. The Player, Manager, and Referee entities all depend on the Person entity because they share common attributes.
 
 The goal is to provide users of the database system, whether they are casual enthusiasts, players, managers, coaches, or others, with the latest, accessible, and digestible advanced soccer analytics. Users can leverage this information to enhance their understanding of the sport or implement changes within their own teams.
-<img src="./SoccerDBMSupdate.png" />
+<div style="text-align: center;">
+  <img src="./SoccerDBMSupdate.png" />
+</div>
